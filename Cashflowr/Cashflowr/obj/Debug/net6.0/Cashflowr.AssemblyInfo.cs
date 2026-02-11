@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cashflowr")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecfaf44338581e5ac9987488321f182722b136db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7f9357599ff5a99e365cc43e8fb8991211534ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cashflowr")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cashflowr")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
