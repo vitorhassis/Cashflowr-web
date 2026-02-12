@@ -10,5 +10,6 @@ public class Saida
 	public decimal Valor { get; set; }
     public CategoriaDespesa Categoria { get; set; }
 	public FormaDePagamentoDespesa FormaDePagamento { get; set; }
+	public DateTime DataSaida { get; set; }
 	public bool IsEssencial { get; set; }
 }

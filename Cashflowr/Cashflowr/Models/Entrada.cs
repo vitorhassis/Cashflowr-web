@@ -9,4 +9,5 @@ public class Entradas
     public int IdUsuario { get; set; }
     public NomeEntrada Nome { get; set; }
 	public double Valor { get; set; }
+    public DateTime DataEntrada { get; set; }
 }

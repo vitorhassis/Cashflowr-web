@@ -9,4 +9,6 @@ public class Usuario
     public String Email { get; set; }
 	public DateTime DataCriacao { get; set; } = DateTime.UtcNow;
 	public bool IsAtivo { get; set; }
+
+	public string Senha { get; set; }
 }

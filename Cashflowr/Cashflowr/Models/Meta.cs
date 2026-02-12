@@ -6,6 +6,6 @@ public class Meta
 	public string IdUsuario { get; set; }
 	public string Nome { get; set; }
 	public decimal ValorAlvo { get; set; }
-	public DateTime DataCriacao { get; set; } = DateTime.Now;
+	public DateTime DataCriacao { get; set; } 
 	
 }

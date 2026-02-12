@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Cashflowr.Data.Dtos
 {
-    public class CreateEntradaDto
+    public class UpdateEntradaDto
     {
         [Required(ErrorMessage = "Nome da entrada é obrigatório.")]
         public NomeEntrada? Nome { get; set; }
@@ -11,6 +11,6 @@ namespace Cashflowr.Data.Dtos
         [Range(0.01, 1_000_000, ErrorMessage = "Valor deve ser maior que zero.")]
         public decimal Valor { get; set; }
         [Required(ErrorMessage = "Data é obrigatória.")]
-        public DateTime? DataEntrada { get; set; } 
+        public DateTime? DataEntrada { get; set; }
     }
 }
