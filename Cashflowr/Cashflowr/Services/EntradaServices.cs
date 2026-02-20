@@ -2,15 +2,14 @@
 
 namespace Cashflowr.Service
 {
-    public class EntradaService
+    public class EntradaServices
     {
         private readonly MyCashContext _context;
-        
-        public EntradaService(MyCashContext context)
+
+        public EntradaServices(MyCashContext context)
         {
             _context = context;
         }
 
-        public void 
     }
 }

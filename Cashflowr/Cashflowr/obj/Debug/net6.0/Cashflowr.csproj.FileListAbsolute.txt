@@ -41,3 +41,15 @@ C:\Users\vh\Documents\GitHub\Cashflowr-web\Cashflowr\Cashflowr\obj\Debug\net6.0\
 C:\Users\vh\Documents\GitHub\Cashflowr-web\Cashflowr\Cashflowr\obj\Debug\net6.0\Cashflowr.pdb
 C:\Users\vh\Documents\GitHub\Cashflowr-web\Cashflowr\Cashflowr\obj\Debug\net6.0\Cashflowr.genruntimeconfig.cache
 C:\Users\vh\Documents\GitHub\Cashflowr-web\Cashflowr\Cashflowr\obj\Debug\net6.0\ref\Cashflowr.dll
+C:\Users\goats\OneDrive\Documentos\GitHub\Cashflowr-web\Cashflowr\Cashflowr\obj\Debug\net6.0\Cashflowr.csproj.AssemblyReference.cache
+C:\Users\goats\OneDrive\Documentos\GitHub\Cashflowr-web\Cashflowr\Cashflowr\obj\Debug\net6.0\rpswa.dswa.cache.json
+C:\Users\goats\OneDrive\Documentos\GitHub\Cashflowr-web\Cashflowr\Cashflowr\obj\Debug\net6.0\Cashflowr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goats\OneDrive\Documentos\GitHub\Cashflowr-web\Cashflowr\Cashflowr\obj\Debug\net6.0\Cashflowr.AssemblyInfoInputs.cache
+C:\Users\goats\OneDrive\Documentos\GitHub\Cashflowr-web\Cashflowr\Cashflowr\obj\Debug\net6.0\Cashflowr.AssemblyInfo.cs
+C:\Users\goats\OneDrive\Documentos\GitHub\Cashflowr-web\Cashflowr\Cashflowr\obj\Debug\net6.0\Cashflowr.csproj.CoreCompileInputs.cache
+C:\Users\goats\OneDrive\Documentos\GitHub\Cashflowr-web\Cashflowr\Cashflowr\obj\Debug\net6.0\Cashflowr.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\goats\OneDrive\Documentos\GitHub\Cashflowr-web\Cashflowr\Cashflowr\obj\Debug\net6.0\Cashflowr.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\goats\OneDrive\Documentos\GitHub\Cashflowr-web\Cashflowr\Cashflowr\obj\Debug\net6.0\Cashflowr.sourcelink.json
+C:\Users\goats\OneDrive\Documentos\GitHub\Cashflowr-web\Cashflowr\Cashflowr\obj\Debug\net6.0\Cashflowr.dll
+C:\Users\goats\OneDrive\Documentos\GitHub\Cashflowr-web\Cashflowr\Cashflowr\obj\Debug\net6.0\refint\Cashflowr.dll
+C:\Users\goats\OneDrive\Documentos\GitHub\Cashflowr-web\Cashflowr\Cashflowr\obj\Debug\net6.0\Cashflowr.pdb

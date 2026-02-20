@@ -13,6 +13,8 @@ namespace Cashflowr.Data.Dtos
 
         [Required(ErrorMessage = "Data da conta é obrigatória.")]
         public DateTime DataVencimento { get; set; }
-        public decimal ValorPlanejado { get; set; }
+
+        [Range(0.01, 1_000_000, ErrorMessage = "Valor deve ser maior que zero.")]
+        public decimal? ValorPlanejado { get; set; }
     }
 }
